@@ -1,0 +1,16 @@
+{
+    "name": "RoverSimulator.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eee88d9612e14c43b90f69260c363397"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

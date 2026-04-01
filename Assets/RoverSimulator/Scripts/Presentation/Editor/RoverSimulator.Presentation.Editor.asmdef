@@ -1,0 +1,19 @@
+{
+    "name": "RoverSimulator.Presentation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ed90b12e31ee4f6daa72969116987ff2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+
