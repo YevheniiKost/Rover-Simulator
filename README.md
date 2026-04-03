@@ -78,5 +78,5 @@ Dependencies flow strictly **inward** — Presentation → Domain ← Data, with
 
 1. Clone the repository.
 2. Open the project in **Unity 6** or later.
-3. Open the main scene in `Assets/Scenes/`.
+3. Open the main scene in `Assets/RoverSimulator/Scenes/`.
 4. Press **Play** — use the Main Menu to start the simulation.
